@@ -1,0 +1,41 @@
+﻿# ROS build artifacts
+build/
+devel/
+.catkin_workspace
+
+# VSCode
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Temp files
+*.tmp
+*.bak
