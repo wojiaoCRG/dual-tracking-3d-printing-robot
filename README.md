@@ -133,7 +133,7 @@
 
 | 凸型薄壁（1200mm × 598mm） | 凹型薄壁（2500mm × 1000mm） |
 |:---:|:---:|
-| ![凸型薄壁](docs/images/fig11_concave_thin_wall.png)=300x | ![凹型薄壁](docs/images/fig11_thinwall2.png) =300x |
+| ![凸型薄壁](docs/images/fig11_concave_thin_wall.png)| ![凹型薄壁](docs/images/fig11_thinwall2.png) |
 
 #### 实验结论
 
