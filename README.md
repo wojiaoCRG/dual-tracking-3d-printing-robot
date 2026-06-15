@@ -123,15 +123,17 @@
 | **最大偏差** | 32.8mm - 64.1mm | 4.9mm - 12.7mm | 67.9% - 86.4% |
 | **标准差** | 5.6mm - 13.2mm | 1.6mm - 2.5mm | 71.4% - 83.8% |
 
-#### 薄壁打印验证
+#### 35层1200mm×1200mm薄壁打印验证
 
-![35层1200mm薄壁打印验证](docs/images/fig10_thin_wall_1200x1200.png)
+| 半开环打印 | 双闭环打印 |
+|:---:|:---:|
+| ![凸型薄壁](docs/images/fig10_thin_wall_1200x1200.png) | ![凹型薄壁](docs/images/fig11_convex_thin_wall.png) |
 
 #### 不同形状移植性验证
 
 | 凸型薄壁（1200mm × 598mm） | 凹型薄壁（2500mm × 1000mm） |
 |:---:|:---:|
-| ![凸型薄壁](docs/images/fig11_convex_thin_wall.png) | ![凹型薄壁](docs/images/fig11_concave_thin_wall.png) |
+| ![凸型薄壁](docs/images/fig11_concave_thin_wall.png) | ![凹型薄壁](docs/images/fig11_thinwall2.png) |
 
 #### 实验结论
 
@@ -330,9 +332,12 @@ A ROS-based mobile robot 3D printing system implementing a dual tracking strateg
 | **Max Deviation** | 32.8mm - 64.1mm | 4.9mm - 12.7mm | 67.9% - 86.4% |
 | **Std Deviation** | 5.6mm - 13.2mm | 1.6mm - 2.5mm | 71.4% - 83.8% |
 
-#### Thin-Walled Printing Verification
+#### 35layers 1200mm×1200mm Thin-Walled Printing Verification
 
- | ![35-layer Thin Wall Verification](docs/images/fig10_thin_wall_1200x1200.png)  | ![Concave](docs/images/fig11_concave_thin_wall.png) |
+
+| Semi-closed loop printing | Dual closed loop printing |
+|:---:|:---:|
+| ![凸型薄壁](docs/images/fig10_thin_wall_1200x1200.png) | ![凹型薄壁](docs/images/fig11_convex_thin_wall.png) |
 
 #### Portability Verification
 
