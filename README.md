@@ -332,13 +332,13 @@ A ROS-based mobile robot 3D printing system implementing a dual tracking strateg
 
 #### Thin-Walled Printing Verification
 
-![35-layer Thin Wall Verification](docs/images/fig10_thin_wall_1200x1200.png)
+ | ![35-layer Thin Wall Verification](docs/images/fig10_thin_wall_1200x1200.png)  | ![Concave](docs/images/fig11_concave_thin_wall.png) |
 
 #### Portability Verification
 
 | Convex (1200mm x 598mm) | Concave (2500mm x 1000mm) |
 |:---:|:---:|
-| ![Convex](docs/images/fig11_convex_thin_wall.png) | ![Concave](docs/images/fig11_concave_thin_wall.png) |
+| ![Convex](docs/images/fig11_concave_thin_wall.png) | ![Concave](docs/images/fig11_thinwall2.png) |
 
 #### Experimental Conclusions
 
