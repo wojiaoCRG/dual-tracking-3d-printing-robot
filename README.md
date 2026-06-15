@@ -133,7 +133,6 @@
 
 | 凸型薄壁（1200mm × 598mm） | 凹型薄壁（2500mm × 1000mm） |
 |:---:|:---:|
-| ![凸型薄壁](docs/images/fig11_concave_thin_wall.png)| ![凹型薄壁](docs/images/fig11_thinwall2.png) |
 | <img src="docs/images/fig11_concave_thin_wall.png" width="300"> | <img src="docs/images/fig11_thinwall2.png" width="300"> |
 
 #### 实验结论
@@ -344,7 +343,7 @@ A ROS-based mobile robot 3D printing system implementing a dual tracking strateg
 
 | Convex (1200mm x 598mm) | Concave (2500mm x 1000mm) |
 |:---:|:---:|
-| ![Convex](docs/images/fig11_concave_thin_wall.png) | ![Concave](docs/images/fig11_thinwall2.png) |
+| <img src="docs/images/fig11_concave_thin_wall.png" width="300"> | <img src="docs/images/fig11_thinwall2.png" width="300"> |
 
 #### Experimental Conclusions
 
